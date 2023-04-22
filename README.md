@@ -6,7 +6,7 @@ The images used is found in Kaggle https://www.kaggle.com/datasets/misrakahmed/v
 ![Data Visualisation](https://user-images.githubusercontent.com/130839755/233574154-a8d1f6d3-1253-4ea3-a320-d2176fc14816.PNG)
 
 ## Group members
-- Apruv - Data visualisation and Augmentation
+- Apurv - Data visualisation and Augmentation
 - Bryan - Data preparation and Neural Network Model
 
 ## Problem Definition
